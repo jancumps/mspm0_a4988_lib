@@ -31,7 +31,7 @@ set(SOURCES_MODULES
     # ....
 ```
 
-```cxx
+```cpp
 // import stepper_driver;              // wakeup class
 import a4988_mspm0;                 // hw driver classes and registers
 
